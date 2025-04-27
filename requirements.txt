@@ -1,0 +1,19 @@
+# Core scientific stack
+numpy>=1.23
+pandas>=2.0
+scikit-learn>=1.4
+statsmodels>=0.14
+matplotlib>=3.8
+tqdm>=4.66
+
+# Deep‑learning back‑ends (choose CPU or CUDA wheels as needed)
+torch>=2.2
+tensorflow>=2.16
+
+# Finance data & tracking
+yfinance>=0.2
+wandb>=0.16
+
+# Git LFS is handled outside Python (sudo apt install git-lfs)
+
+

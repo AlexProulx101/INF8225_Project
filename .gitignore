@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual envs / secrets
+venv/         # rename if you use .env or .venv
+.env
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Uncomment to *exclude* raw data instead of LFS-tracking it
+#*.csv
+#*.xlsx
+#*.npy
+#*.npz
+
